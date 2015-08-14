@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Dankiwan" >
+    <title>Catalogue - Supa Soko Bargain Stores</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+	<header>
+	    <div class="container">
+	        <div class="row">
+
+	        	<!-- Logo -->
+	            <div class="col-lg-4 col-md-3 hidden-sm hidden-xs">
+	            	<div class="well logo">
+	            		<a href="index.html">
+	            			Supa Soko <span>Bargain Stores</span>
+	            		</a>
+	            		<div>All the goods and items we import have a very unique story to tell.</div>
+	            	</div>
+	            </div>
+	            <!-- End Logo -->
+
+	        </div>
+	    </div>
+    </header>
+
+	<!-- Navigation -->
+    <nav class="navbar navbar-inverse" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!-- text logo on mobile view -->
+                <a class="navbar-brand visible-xs" href="index.html">Supa Soko Bargain Stores</a>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="catalogue.html" class="active">Catalogue</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="checkout.html">Contact Us</a></li>
+  <!--<li class="nav-dropdown">
+                    	<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+							Pages <span class="caret"></span>-->						</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- End Navigation -->
+
+    <div class="container main-container">
+        <div class="row">
+        	<div class="col-lg-3 col-md-3 col-sm-12">
+
+        		<!-- Categories -->
+        		<div class="col-lg-12 col-md-12 col-sm-6">
+	        		<div class="no-padding">
+	            		<span class="title">CATEGORIES</span>
+	            	</div>
+					<div class="list-group list-categ">
+						<a href="catalogue1el.html" class="list-group-item">Electronics</a>
+						<a href="catalogue2h.html" class="list-group-item">Home & Kitchen</a>
+						<a href="catalogue3t.html" class="list-group-item">Toys (Soft & Hard)</a>
+						<a href="catalogue4sp.html" class="list-group-item">Sporting Goods</a>
+						<a href="catalogue5cc.html" class="list-group-item">Cuttlery & Cookery</a>
+						<a href="catalogue6f.html" class="list-group-item">Furniture; Tables & Chairs</a>
+						<a href="catalogue7ca.html" class="list-group-item">Cameras & Accessories</a>
+						<a href="catalogue8ba.html" class="list-group-item">Bikes & Accesories</a>
+						<a href="catalogue9wt.html" class="list-group-item">Women, Travelling Bags</a>
+						<a href="catalogue10lt.html" class="list-group-item">Lighting, Light Fixtures</a>
+					</div>
+				</div>
+				<!-- End Categories -->
+
+				<!-- Best Seller -->
+				<div class="col-lg-12 col-md-12 col-sm-6">
+					<div class="no-padding">
+	            		<span class="title">BEST PRICE</span>
+	            	</div>
+		            <div class="hero-feature">
+		                <div class="thumbnail text-center">
+		                	<a href="catalogue.html" class="link-p">
+		                    	<img src="images/product-8.jpg" alt="">
+		                	</a>
+		                    <div class="caption prod-caption">
+                            <h4><a href="catalogue.html">All Furniture</a></h4>
+		                        <p>You will find the perfect dining tables & chairs and wide furniture range here. Find out more</p>
+		                        <p>
+		                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+		                        	</div>
+		                        </p>
+		                    </div>
+		                </div>
+		            </div>
+					<div class="hero-feature hidden-sm">
+		                <div class="thumbnail text-center">
+		                	<a href="catalogue.html" class="link-p">
+		                    	<img src="images/product-9.jpg" alt="">
+		                	</a>
+		                    <div class="caption prod-caption">
+		                        <h4><a href="catalogue.html">Women's Handbags</a></h4>
+		                        <p>Women's ladies Handbag, designer, smart, purse, trendy hand bag Stylish ...<p>
+		                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+		                        	</div>
+		                        </p>
+		                    </div>
+		                </div>
+		            </div>
+				</div>
+				<!-- End Best Seller -->
+
+        	</div>
+
+        	<div class="clearfix visible-sm"></div>
+
+			<!-- Catalogue -->
+        	<div class="col-lg-9 col-md-9 col-sm-12">
+        		<div class="col-lg-12 col-sm-12">
+            		<span class="title">PRODUCTS CATALOGUE</span>
+            	</div>
+	            <div class="col-lg-4 col-sm-4 hero-feature text-center">
+	                <div class="thumbnail">
+	                	<a href="catalogue.html" class="link-p">
+	                    	<img src="images/product-2.jpg" alt="">
+	                	</a>
+	                    <div class="caption prod-caption">
+	                        <h4><a href="catalogue.html">Utencils & Cuttlery</a></h4>
+	                        <p>Fancy utencils and cuttlery tools aren't necessary to cook great food. Find out more</p>
+	                        <p>
+	                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+	                        	</div>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+	            <div class="col-lg-4 col-sm-4 hero-feature text-center">
+	                <div class="thumbnail">
+	                	<a href="catalogue.html" class="link-p">
+	                    	<img src="images/product-3.jpg" alt="">
+	                	</a>
+	                    <div class="caption prod-caption">
+	                        <h4><a href="catalogue.html">Women Handbags, Bags</a></h4>
+	                        <p>Women's ladies Handbag, designer, smart, purse, trendy hand bag Stylish ... …women !</p>
+	                        <p>
+	                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+	                        	</div>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+	            <div class="col-lg-4 col-sm-4 hero-feature text-center">
+	                <div class="thumbnail">
+	                	<a href="catalogue.html" class="link-p">
+	                    	<img src="images/product-4.jpg" alt="">
+	                	</a>
+	                    <div class="caption prod-caption">
+	                        <h4><a href="catalogue.html">Dinning Table & Chairs</a></h4>
+	                        <p>A great meal doesn't have to happen around a huge table...See more of our tables & chairs</p>
+	                        <p>
+	                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+	                        	</div>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+	            <div class="col-lg-4 col-sm-4 hero-feature text-center">
+	                <div class="thumbnail">
+	                	<a href="catalogue.html" class="link-p">
+	                    	<img src="images/product-5.jpg" alt="">
+	                	</a>
+	                    <div class="caption prod-caption">
+	                        <h4><a href="catalogue.html">Huge range of Bikes</a></h4>
+	                        <p> Best price, best selection and best brands for bikes, cycling apparel, cycling equipment and much more.</p>
+	                        <p>
+	                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+	                        	</div>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+	            <div class="col-lg-4 col-sm-4 hero-feature text-center">
+	                <div class="thumbnail">
+	                	<a href="catalogue.html" class="link-p">
+	                    	<img src="images/product-6.jpg" alt="">
+	                	</a>
+	                    <div class="caption prod-caption">
+	                        <h4><a href="catalogue.html">Travelling Bags</a></h4>
+	                        <p>We import bags that caters to the needs of customers. We have variety. Find out more</p>
+	                        <p>
+	                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+	                        	</div>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+	            <div class="col-lg-4 col-sm-4 hero-feature text-center">
+	                <div class="thumbnail">
+	                	<a href="catalogue.html" class="link-p">
+	                    	<img src="images/product-7.jpg" alt="">
+	                	</a>
+	                    <div class="caption prod-caption">
+	                        <h4><a href="catalogue.html">Lighting, Light Fixtures, Home Lighting</a></h4>
+	                        <p>Whether your home is traditional or modern you can feel certain we have the lighting products you need!</p>
+	                        <p>
+	                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+	                        	</div>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+        	</div>
+        	<!-- End Featured -->
+
+        	<div class="clearfix visible-sm"></div>
+
+			<!-- Adidas Category -->
+        	<div class="col-lg-9 col-md-9 col-sm-12">
+				<div class="col-lg-12 col-sm-12">
+            		<span class="title">MORE IN STORE</span>
+            	</div>
+	            <div class="col-lg-4 col-sm-4 hero-feature text-center">
+	                <div class="thumbnail">
+	                	<a href="catalogue.html" class="link-p">
+	                    	<img src="images/product-10.jpg" alt="">
+	                	</a>
+	                    <div class="caption prod-caption">
+	                        <h4><a href="catalogue.html">Refrigerators & Freezers</a></h4>
+	                        <p> Get best price deals on direct cool, frost free, double door, multiple door, side by side fridge. </p>
+	                        <p>
+	                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+	                        	</div>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+	            <div class="col-lg-4 col-sm-4 hero-feature text-center">
+	                <div class="thumbnail">
+	                	<a href="catalogue.html" class="link-p">
+	                    	<img src="images/product-11.jpg" alt="">
+	                	</a>
+	                    <div class="caption prod-caption">
+	                        <h4><a href="catalogue.html">Home Electronics</a></h4>
+	                        <p>Home audio video systems, portable audio, TV, Speakers, Home Theater, Music System </p>
+	                        <p>
+	                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+	                        	</div>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+	            <div class="col-lg-4 col-sm-4 hero-feature text-center">
+	                <div class="thumbnail">
+	                	<a href="catalogue.html" class="link-p">
+	                    	<img src="images/product-12.jpg" alt="">
+	                	</a>
+	                    <div class="caption prod-caption">
+	                        <h4><a href="catalogue.html">Blendes & Choppers</a></h4>
+	                        <p>Our variety Blenders & Choppers are at best prices. With our exclusive range, you must get one.</p>
+	                        <p>
+	                        	<div class="btn-group">
+			                        	<!--<a href="#" class="btn btn-default">.................. </a>-->
+	                        	</div>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+				<div class="text-center">
+		        	<ul class="pagination catalogue-pagination">
+						<li class="disabled"><a>First</a></li>
+						<li class="disabled"><a>Prev</a></li>
+						<li class="active"><a href="#">1</a></li>
+						<li><a href="#">2</a></li>
+						<li><a href="#">3</a></li>
+						<li><a href="#">4</a></li>
+						<li><a href="#">Next</a></li>
+						<li><a href="#">Last</a></li>
+					</ul>
+				</div>
+        	</div>
+        	<!-- End Catalogue -->
+
+
+        </div>
+	</div>
+
+	<footer>
+    	<div class="container">
+        	<div class="col-lg-3 col-md-3 col-sm-6">
+        		<div class="column">
+        			<h4>Information</h4>
+        			<ul>
+        				<li><a href="about.html">About Us</a></li>
+        				<li><a href="typography.html">Policy Privacy</a></li>
+        				<li><a href="typography.html">Terms and Conditions</a></li>
+        			</ul>
+        		</div>
+        	</div>
+        	<div class="col-lg-3 col-md-3 col-sm-6">
+        		<div class="column">
+        			<h4>Categories</h4>
+        			<ul>
+        				<li><a href="catalogue.html">Electronics</a></li>
+        				<li><a href="catalogue.html">Home & Kitchen</a></li>
+        				<li><a href="catalogue.html">Toys (Soft & Hard)</a></li>
+        				<li><a href="catalogue.html">Sporting goods</a></li>
+        			</ul>
+        		</div>
+        	</div>
+        	<div class="col-lg-3 col-md-3 col-sm-6">
+        		<div class="column">
+        			<h4>Customer Service</h4>
+        			<ul>
+        				<li><a href="contact.html">Contact Us</a></li>
+        				<li><a href="#">Nairobi</a></li>
+        				<li><a href="#">Cell: +254 722 250 373 </a></li>
+        				<li><a href="#">Email: info@supasokostores.com</a></li>
+        			</ul>
+        		</div>
+        	</div>
+        	<div class="col-lg-3 col-md-3 col-sm-6">
+        		<div class="column">
+        			<h4>Follow Us</h4>
+        			<ul class="social">
+        				<li><a href="#">Google Plus</a></li>
+        				<li><a href="#">Facebook</a></li>
+        				<li><a href="#">Twitter</a></li>
+        				<li><a href="#">Pintrest</a></li>
+        			</ul>
+        		</div>
+        	</div>
+        </div>
+        <div class="navbar-inverse text-center copyright">
+        	Copyright &copy; 2014 Supa Soko Stores. All right reserved
+        </div>
+    </footer>
+
+    <a href="#top" class="back-top text-center" onclick="$('body,html').animate({scrollTop:0},500); return false">
+    	<i class="fa fa-angle-double-up"></i>
+    </a>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/jquery.bxslider.min.js"></script>
+    <script src="js/jquery.blImageCenter.js"></script>
+    <script src="js/mimity.js"></script>
+</body>
+</html>
